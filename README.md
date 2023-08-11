@@ -15,3 +15,5 @@ Balkon's WeaponMod(1.7.10): https://github.com/ianlavr/weaponmod_1.7.10_ruru_fix
 Expanded Weaponary(1.7.10): https://github.com/ianlavr/expandedarmory_1.7.10_translation (не закончен)
 
 Hammerz(1.7.10): https://github.com/ianlavr/hammerz_1.7.10_translation
+
+Thaumic Horizons(1.7.10): https://github.com/ianlavr/thaumichorizons_1.7.10_ruru (не закончен)

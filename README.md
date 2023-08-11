@@ -11,3 +11,5 @@ Engineer's Toolbox(1.7.10): https://github.com/ianlavr/engtoolbox_1.7.10_ruru
 Expanded Industry(1.7.10): https://github.com/ianlavr/expandedindustry_1.7.10_ruru
 
 Balkon's WeaponMod(1.7.10): https://github.com/ianlavr/weaponmod_1.7.10_ruru_fix (перевод уже был но поломанный)
+
+Expanded Weaponary(1.7.10): https://github.com/ianlavr/expandedarmory_1.7.10_translation (не закончен)

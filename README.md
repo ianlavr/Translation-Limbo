@@ -5,3 +5,5 @@
 Materialis(1.12.2): https://github.com/ianlavr/materialis_1.12_ruru
 
 Tinkers' Evolution(1.12.2): https://github.com/ianlavr/tconevo_1.12_ruru
+
+Engineer's Toolbox(1.7.10): https://github.com/ianlavr/engtoolbox_1.7.10_ruru
